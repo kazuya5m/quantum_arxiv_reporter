@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>量子機械学習 on Quantum arxiv reporter</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/tags/%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><description>Recent content in 量子機械学習 on Quantum arxiv reporter</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Wed, 24 Dec 2025 23:39:57 +0000</lastBuildDate><atom:link href="https://kazuya5m.github.io/quantum_arxiv_reporter/tags/%E9%87%8F%E5%AD%90%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-12-24 量子機械学習</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251224-quantum-ml/</link><pubDate>Wed, 24 Dec 2025 23:39:57 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251224-quantum-ml/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子機械学習">今週の量子技術ダイジェスト：量子機械学習&lt;/h1>
+&lt;p>量子技術は、従来の計算能力を超える潜在能力を秘めた分野であり、その中でも量子機械学習は特に注目されています。今週は、量子機械学習に関連する革新的な研究が発表されました。以下に、特に注目すべき論文を紹介し、その内容を詳しく解説します。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-a-high-dimensional-quantum-blockchain-protocol-based-on-time-entanglement">1. A High-Dimensional Quantum Blockchain Protocol Based on Time-Entanglement&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者&lt;/strong>: Aktaş, Arzu, Yılmaz, İhsan&lt;/li>
+&lt;li>&lt;strong>公開日&lt;/strong>: 2025-12-23&lt;/li>
+&lt;li>&lt;strong>URL&lt;/strong>: &lt;a href="http://arxiv.org/abs/2512.20489v1">arXiv:2512.20489v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>この論文は、量子メカニクスに基づくブロックチェーンプロトコルを革新的に提案しています。従来の計算的困難に依存するセキュリティメカニズムを超え、高次元のベル状態（量子状態の一種）と時間エンタングルメント（量子もつれの一形態）を利用することで、データの検証とアイデンティティの確立を実現します。このアプローチは、量子ネットワークにおけるブロックチェーンの実装可能性を大いに高め、将来のセキュアな通信に対する重要なステップとなるでしょう。&lt;/p>
+&lt;h3 id="2-random-stinespring-superchannel-converting-channel-queries-into-dilation-isometry-queries">2. Random Stinespring superchannel: converting channel queries into dilation isometry queries&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者&lt;/strong>: Filippo Girardi, Francesco Anna Mele, Haimeng Zhao, Marco Fanizza, Ludovico Lami&lt;/li>
+&lt;li>&lt;strong>公開日&lt;/strong>: 2025-12-23&lt;/li>
+&lt;li>&lt;strong>URL&lt;/strong>: &lt;a href="http://arxiv.org/abs/2512.20599v1">arXiv:2512.20599v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/li>
+&lt;/ul>
+&lt;p>この研究は、量子チャネル学習における革新的なアプローチを提供しています。特に、チャネルのクエリをダイレーションのユニタリクエリに変換する手法が新たな道を開きます。この技術により、量子チャネルの学習がアイソメトリー（距離を保つ変換）の学習に簡略化され、最適なクエリの複雑さを明確にすることが可能となります。量子計算の実用化に向けた重要な一歩として、効率的なアルゴリズムが提案されています。&lt;/p>
+&lt;h3 id="3-classification-using-quantum-kernels-in-a-radial-basis-function-network">3. Classification using quantum kernels in a radial basis function network&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者&lt;/strong>: Emily Micklethwaite, Adam Lowe&lt;/li>
+&lt;li>&lt;strong>公開日&lt;/strong>: 2025-12-23&lt;/li>
+&lt;li>&lt;strong>URL&lt;/strong>: &lt;a href="http://arxiv.org/abs/2512.20567v1">arXiv:2512.20567v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/li>
+&lt;/ul>
+&lt;p>この論文では、量子カーネル（量子状態に基づく類似度計算手法）を用いたラジアル基底関数ネットワーク（RBFネットワーク）の新たな拡張が提案されています。量子と古典を融合したこの手法は、RBFネットワークの多クラス分類能力を向上させるもので、従来のサポートベクターマシン（SVM）よりも優れた性能を示す可能性があります。これにより、量子技術を用いた機械学習の実用性が大幅に向上することが期待されています。&lt;/p></description></item><item><title>2025-12-17 量子機械学習</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251217-quantum-ml/</link><pubDate>Wed, 17 Dec 2025 23:40:31 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251217-quantum-ml/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子機械学習">今週の量子技術ダイジェスト：量子機械学習&lt;/h1>
+&lt;p>量子技術の進展は驚異的であり、特に量子機械学習の分野においては、日々新しい知見が得られています。今週も注目すべき論文がいくつか発表されており、それらを深掘りすることで、現在のトレンドや将来の展望を明らかにしていきます。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-reading-qubits-with-sequential-weak-measurements-limits-of-information-extraction">1. Reading Qubits with Sequential Weak Measurements: Limits of Information Extraction&lt;/h3>
+&lt;p>&lt;strong>著者・公開日・URL&lt;/strong>: Cesar Lema, Aleix Bou-Comas, Atithi Acharya, Vadim Oganesyan, Anirvan Sengupta | 公開日: 2025-12-16 | &lt;a href="http://arxiv.org/abs/2512.14583v1">URL&lt;/a>&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;br>
+この論文は、量子ビットの読み出しにおける情報抽出の限界を探求しています。特に、弱い測定を連続的に適用することで、初期状態の情報がどのように失われるかを示しています。この発見は、量子デバイスの操作と最適化において重要な洞察を提供し、NISQデバイスにおける機械学習アプローチの向上に寄与する可能性があります。情報抽出の限界を理解することは、量子計算の効率向上に直結します。&lt;/p>
+&lt;h3 id="2-magic-state-cultivation-on-a-superconducting-quantum-processor">2. Magic state cultivation on a superconducting quantum processor&lt;/h3>
+&lt;p>&lt;strong>著者・公開日・URL&lt;/strong>: Emma Rosenfeld et al. | 公開日: 2025-12-15 | &lt;a href="http://arxiv.org/abs/2512.13908v1">URL&lt;/a>&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;br>
+この研究は、超伝導量子プロセッサ上でのマジック状態の栽培に関する実験的なアプローチを示しており、量子エラー訂正の課題に対する実行可能な解決策を実証しています。マジック状態は、量子コンピューティングにおいて非常に重要であり、これを効率的に生成することができれば、量子計算のリソースコストを大幅に削減することが期待されます。実用的な量子コンピュータの発展にとって、これは非常に価値のある進展です。&lt;/p>
+&lt;h3 id="3-physics-informed-neural-networks-with-adaptive-constraints-for-multi-qubit-quantum-tomography">3. Physics-Informed Neural Networks with Adaptive Constraints for Multi-Qubit Quantum Tomography&lt;/h3>
+&lt;p>&lt;strong>著者・公開日・URL&lt;/strong>: Changchun Feng, Laifa Tao, Lin Chen | 公開日: 2025-12-16 | &lt;a href="http://arxiv.org/abs/2512.14543v1">URL&lt;/a>&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;br>
+この論文は、物理的制約を組み込んだニューラルネットワークのフレームワークを提案しており、多量子ビットシステムのトモグラフィーにおける測定要件を大幅に削減することを目指しています。量子エラー訂正やゲートキャリブレーションにおける実用的な進展は、スケーラブルな量子コンピュータを実現する上での重要なステップとなるでしょう。&lt;/p></description></item><item><title>2025-12-10 量子機械学習</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251210-quantum-ml/</link><pubDate>Wed, 10 Dec 2025 23:40:02 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251210-quantum-ml/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子機械学習">今週の量子技術ダイジェスト：量子機械学習&lt;/h1>
+&lt;p>量子技術の進展は日々加速しており、特に量子機械学習の分野では新しい発見や技術が続々と発表されています。今週は、特に注目すべき3つの論文について深掘りし、それぞれのインパクトや今後の展望を考察していきます。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-autonomous-multi-ion-optical-clock-with-on-chip-integrated-photonic-light-delivery">1. Autonomous multi-ion optical clock with on-chip integrated photonic light delivery&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Tharon D. Morrison, Joonhyuk Kwon, Matthew A. Delaney, David R. Leibrandt, Daniel Stick, Hayden J. McGuinness - 2025-12-09 - &lt;a href="http://arxiv.org/abs/2512.08921v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>この論文では、トラップイオンシステムに統合フォトニクスを用いた自律型光時計の構築が示されています。これはポータブル光原子時計やスケーラブルな量子コンピュータの実現に向けた重要なステップです。特に、短期周波数不安定性が非常に低いことが強調されており、次世代の量子センサーやコンピュータにとって堅牢なアーキテクチャを提供します。これにより、量子計測技術の精度向上が期待され、様々な応用が見込まれます。&lt;/p>
+&lt;h3 id="2-saq-stabilizer-aware-quantum-error-correction-decoder">2. SAQ: Stabilizer-Aware Quantum Error Correction Decoder&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: David Zenati, Eliya Nachmani - 2025-12-09 - &lt;a href="http://arxiv.org/abs/2512.08914v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>本研究は、量子誤り訂正における新たなデコーダーを提案しています。このデコーダーは、高い精度と計算効率を両立させており、量子コンピュータの実用化には欠かせない要素である競争力のあるデコーディング精度を達成しています。実用的な耐障害量子コンピュータシステムに向けた重要な進展であり、量子技術の商業化に向けた道筋を示唆しています。&lt;/p>
+&lt;h3 id="3-perfect-continuous-variable-quantum-microcombs">3. Perfect continuous-variable quantum microcombs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Kangkang Li, Yue Wang, Ze Wang, Xin Zhou, Jincheng Li, Yinke Cheng, Binyan Wu, Qihuang Gong, Bei-Bei Li, Qi-Fan Yang - 2025-12-09 - &lt;a href="http://arxiv.org/abs/2512.08650v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★&lt;/li>
+&lt;/ul>
+&lt;p>この論文では、高Qマイクロ共振器を用いた連続変数量子マイクロコームの生成が実現されています。この技術は、量子情報処理における圧縮かつ多重化されたエンタングルモードのソースを提供するものであり、量子通信や計測技術の向上に寄与する重要な成果です。特に、スケーラブルなCV量子技術の発展に寄与する可能性が高く、今後の研究が期待されます。&lt;/p></description></item><item><title>2025-12-03 量子機械学習</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251203-quantum-ml/</link><pubDate>Wed, 03 Dec 2025 23:38:14 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251203-quantum-ml/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子機械学習">今週の量子技術ダイジェスト：量子機械学習&lt;/h1>
+&lt;p>量子技術は急速に進化しており、研究者たちは新たな発見や技術を次々と発表しています。今週のダイジェストでは、特に注目すべき3本の論文を紹介し、それぞれの内容や影響を詳しく解説します。また、その他の有力論文も取り上げ、今週のトレンドをまとめていきます。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-fault-tolerant-quantum-computation-with-constant-overhead-for-general-noise">1. Fault-tolerant quantum computation with constant overhead for general noise&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者&lt;/strong>: Matthias Christandl, Omar Fawzi, Ashutosh Goswami&lt;/li>
+&lt;li>&lt;strong>公開日&lt;/strong>: 2025-12-02&lt;/li>
+&lt;li>&lt;strong>URL&lt;/strong>: &lt;a href="http://arxiv.org/abs/2512.02760v1">arXiv:2512.02760v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★5&lt;/li>
+&lt;/ul>
+&lt;p>この論文は、一般的なノイズ条件下での耐障害量子計算の実現可能性についての重要な洞察を提供しています。具体的には、量子低密度パリティ検査（QLDPC）コードを用いて、耐障害性のある量子計算が定数オーバーヘッドで可能であることを示しています。このアプローチにより、従来は多くのリソースと時間を要した耐障害量子計算が、実用的なスケールで実現できる可能性が高まります。量子コンピュータの実用性を大いに引き上げるこの成果は、量子計算の理論的基盤に新たな方向性を与え、今後の研究や実用化に大きな影響を与えることでしょう。&lt;/p>
+&lt;h3 id="2-information-dynamics-and-symmetry-breaking-in-generic-monitored-mathbbz_2-symmetric-open-quantum-systems">2. Information dynamics and symmetry breaking in generic monitored $\mathbb{Z}_2$-symmetric open quantum systems&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者&lt;/strong>: Jacob Hauser, Ali Lavasani, Sagar Vijay, Matthew P. A. Fisher&lt;/li>
+&lt;li>&lt;strong>公開日&lt;/strong>: 2025-12-02&lt;/li>
+&lt;li>&lt;strong>URL&lt;/strong>: &lt;a href="http://arxiv.org/abs/2512.03031v1">arXiv:2512.03031v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★4&lt;/li>
+&lt;/ul>
+&lt;p>この論文は、$\mathbb{Z}_2$対称性を持つオープン量子システムにおける情報のダイナミクスと対称性の破れを体系的に探求しています。特に、情報が保存される完全に破れた相と、環境への情報漏洩を伴う相の間の遷移を示す点が重要です。この研究は、量子情報理論と量子システムの動的特性に関する理解を深めるものであり、実験的な実現可能性を持つ新しい量子システムの設計に寄与する可能性があります。&lt;/p>
+&lt;h3 id="3-multi-node-quantum-key-distribution-network-using-existing-underground-optical-fibre-infrastructure">3. Multi-node quantum key distribution network using existing underground optical fibre infrastructure&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者&lt;/strong>: Mariella Minder, Andreas Siakolas, Stephanos Yerolatsitis, Konstantinos Katzis, Kyriacos Kalli&lt;/li>
+&lt;li>&lt;strong>公開日&lt;/strong>: 2025-12-02&lt;/li>
+&lt;li>&lt;strong>URL&lt;/strong>: &lt;a href="http://arxiv.org/abs/2512.02701v1">arXiv:2512.02701v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★4&lt;/li>
+&lt;/ul>
+&lt;p>この論文は、既存の地下光ファイバーインフラを利用したマルチノード量子鍵配送ネットワークの実現を示しています。量子通信の実用化に向けた重要なステップであり、サイバーセキュリティの向上に寄与する可能性があります。このアプローチは、量子ネットワークのスケーラビリティとコスト効率を高め、重要なインフラストラクチャにおける量子通信の実現を後押しします。&lt;/p></description></item></channel></rss>

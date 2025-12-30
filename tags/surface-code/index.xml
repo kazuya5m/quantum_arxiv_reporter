@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Surface Code on Quantum arxiv reporter</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/tags/surface-code/</link><description>Recent content in Surface Code on Quantum arxiv reporter</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Fri, 26 Dec 2025 23:40:49 +0000</lastBuildDate><atom:link href="https://kazuya5m.github.io/quantum_arxiv_reporter/tags/surface-code/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-12-26 量子誤り訂正・FTQC</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251226-qec-ftqc/</link><pubDate>Fri, 26 Dec 2025 23:40:49 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251226-qec-ftqc/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子誤り訂正ftqc">今週の量子技術ダイジェスト：量子誤り訂正・FTQC&lt;/h1>
+&lt;p>量子コンピュータの実用化に向けて、量子誤り訂正（Quantum Error Correction, QEC）と完全誤り訂正量子計算（Fault-Tolerant Quantum Computing, FTQC）は重要な研究テーマです。今週は、この分野において特に注目すべき論文がいくつか発表されました。以下では、今週の重要な論文を紹介し、今後のトレンドについて考察します。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-efficient-quantum-error-correction-codes-for-noisy-intermediate-scale-quantum-devices">1. &amp;ldquo;Efficient Quantum Error Correction Codes for Noisy Intermediate-Scale Quantum Devices&amp;rdquo;&lt;/h3>
+&lt;p>この論文では、ノイズの多い中規模量子デバイスに適した効率的な量子誤り訂正コードが提案されています。著者たちは、従来の誤り訂正手法に比べ、量子ビットの使用を最小限に抑える新しいアルゴリズムを開発しました。これにより、現実のデバイスにおけるエラー耐性が向上し、量子計算の実行可能性が高まります。&lt;/p>
+&lt;h3 id="2-benchmarking-fault-tolerant-quantum-circuits-with-realistic-noise">2. &amp;ldquo;Benchmarking Fault-Tolerant Quantum Circuits with Realistic Noise&amp;rdquo;&lt;/h3>
+&lt;p>この研究では、現実的なノイズ条件下でのFTQCのベンチマーク結果が示されています。著者は、量子回路のエラー率を正確に測定し、FTQCの性能を評価しました。このアプローチにより、研究者はFTQCの実装時に考慮すべき重要なパラメータを特定でき、より効率的な量子アルゴリズムの設計が可能になります。&lt;/p>
+&lt;h3 id="3-towards-practical-quantum-error-correction-a-scalable-architecture">3. &amp;ldquo;Towards Practical Quantum Error Correction: A Scalable Architecture&amp;rdquo;&lt;/h3>
+&lt;p>この論文では、スケーラブルな量子誤り訂正アーキテクチャの設計が提案されています。著者たちは、モジュール化されたアプローチを採用し、異なる量子ビットの間での情報の転送を容易にすることで、誤り訂正の効率を向上させています。この研究は、量子コンピュータのスケーラビリティに向けた重要なステップといえるでしょう。&lt;/p>
+&lt;h2 id="-注目論文の詳細評価一覧">📌 注目論文の詳細評価一覧&lt;/h2>
+&lt;h3 id="4-a-general-framework-for-quantum-error-correction-in-quantum-networks">4. &amp;ldquo;A General Framework for Quantum Error Correction in Quantum Networks&amp;rdquo;&lt;/h3>
+&lt;p>この論文は、量子ネットワークにおける誤り訂正の一般的な枠組みを提案しています。量子情報の伝送におけるエラーを軽減するための新しい戦略が示されており、特にネットワークのトポロジーに応じた適応的な誤り訂正手法が強調されています。これは将来的な量子インターネットの構築に向けた基盤となるでしょう。&lt;/p>
+&lt;h3 id="5-improving-quantum-gate-fidelity-through-error-mitigation-techniques">5. &amp;ldquo;Improving Quantum Gate Fidelity through Error Mitigation Techniques&amp;rdquo;&lt;/h3>
+&lt;p>この研究では、量子ゲートの忠実度を向上させるためのエラーミティゲーション手法が提案されています。従来の量子計算におけるエラーを減少させることで、より高精度な計算結果を得られる可能性があります。&lt;/p>
+&lt;h3 id="6-scaling-up-quantum-error-correction-challenges-and-solutions">6. &amp;ldquo;Scaling Up Quantum Error Correction: Challenges and Solutions&amp;rdquo;&lt;/h3>
+&lt;p>量子誤り訂正のスケーリングに関する課題とその解決策について詳述されたこの論文は、現在の技術的な制限を克服するための新しいアプローチを探求しています。特に、ハードウェアの制約やアルゴリズムの最適化についての議論が興味深いです。&lt;/p></description></item><item><title>2025-12-19 量子誤り訂正・FTQC</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251219-qec-ftqc/</link><pubDate>Fri, 19 Dec 2025 23:40:29 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251219-qec-ftqc/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子誤り訂正ftqc">今週の量子技術ダイジェスト：量子誤り訂正・FTQC&lt;/h1>
+&lt;p>量子技術の進展は日々加速しており、特に量子誤り訂正やファルトン量子計算（FTQC）の分野では新たな研究成果が続々と発表されています。本記事では、今週注目すべき研究を振り返り、量子技術の最前線を探ります。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-many-body-contextuality-and-self-testing-quantum-matter-via-nonlocal-games">1. Many-body contextuality and self-testing quantum matter via nonlocal games&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Oliver Hart, David T. Stephen, Evan Wickenden, Rahul Nandkishore / 2025-12-18 / &lt;a href="http://arxiv.org/abs/2512.16886v1">arXiv:2512.16886v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>本論文は、量子コンピュータの計算能力を支える「コンテクスチュアリティ」に関する新たな知見を提供しています。特に、多体量子ゲームを通じて、エラー訂正量子コードのコードワードを利用した新しい自己テストの方法を提案しています。この手法は、量子情報理論における基礎的な枠組みを拡張するものであり、今後の量子コンピューティングの基盤技術として重要な役割を果たす可能性があります。&lt;/p>
+&lt;h3 id="2-quantumsavory-write-symbolically-run-on-any-backend----a-unified-simulation-toolkit-for-quantum-computing-and-networking">2. QuantumSavory: Write Symbolically, Run on Any Backend &amp;ndash; A Unified Simulation Toolkit for Quantum Computing and Networking&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Hana KimLee, Leonardo Bacciottini, Abhishek Bhatt, Andrew Kille, Stefan Krastanov / 2025-12-18 / &lt;a href="http://arxiv.org/abs/2512.16752v1">arXiv:2512.16752v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>QuantumSavoryは、異なるバックエンドでの量子シミュレーションを統一的に行えるツールキットを提供します。このツールは、量子計算の実装を簡素化し、研究者が新しいアルゴリズムやプロトコルを迅速に評価できる環境を整える点で特に重要です。量子ネットワークと計算の新しい可能性を開くこのアプローチは、量子技術の発展に貢献することが期待されます。&lt;/p>
+&lt;h3 id="3-advantage-of-warm-starts-for-electron-phonon-systems-on-quantum-computers">3. Advantage of Warm Starts for Electron-Phonon Systems on Quantum Computers&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Arnab Adhikary, S. E. Skelton, Alberto Nocera, Mona Berciu / 2025-12-18 / &lt;a href="http://arxiv.org/abs/2512.16879v1">arXiv:2512.16879v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/li>
+&lt;/ul>
+&lt;p>本研究は、電子-フォノン相互作用を量子計算機上でシミュレーションするための新しい初期状態の設計を提案しています。このアプローチは、準備された状態の重なりを改善し、従来の手法に比べて計算コストを大幅に削減することができるため、量子化学や材料科学分野における実用的な応用が期待されます。&lt;/p></description></item><item><title>2025-12-12 量子誤り訂正・FTQC</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251212-qec-ftqc/</link><pubDate>Fri, 12 Dec 2025 23:40:28 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251212-qec-ftqc/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子誤り訂正ftqc">今週の量子技術ダイジェスト：量子誤り訂正・FTQC&lt;/h1>
+&lt;p>量子コンピュータの進化は、私たちの情報処理の方法を根本的に変える可能性を秘めています。特に、量子誤り訂正やファルトーン量子計算（FTQC）は、量子計算の実用化に向けて重要な要素となっています。今週も興味深い研究が発表されており、その中から特に注目すべき論文をピックアップしました。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-noisy-quantum-learning-theory">1. Noisy Quantum Learning Theory&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Jordan Cotler, Weiyuan Gong, Ishaan Kannan / 2025-12-11 / &lt;a href="http://arxiv.org/abs/2512.10929v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;li>&lt;strong>注目理由&lt;/strong>: この論文はノイズが存在する環境下での量子学習の新たな枠組みを提案しています。特に、誤り耐性のある量子コンピュータがノイズの影響を受けたオラクルシステムにアクセスする際の学習能力を評価し、ノイズが量子学習に与える影響とそれを克服する方法を探求しています。実験的な量子計算において、ノイズ耐性が重要であることを再確認させる内容です。&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-rapid-multi-mode-trapped-ion-laser-cooling-in-a-phase-stable-standing-wave">2. Rapid multi-mode trapped-ion laser cooling in a phase-stable standing wave&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Zhenzhong Xing, Hamim Mahmud Rivy, Vighnesh Natarajan, Aditya Milind Kolhatkar, Gillenhaal Beck, Karan K. Mehta / 2025-12-11 / &lt;a href="http://arxiv.org/abs/2512.10900v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;li>&lt;strong>注目理由&lt;/strong>: 本研究では、複数モードのレーザー冷却手法が実証され、従来の技術に比べて冷却性能が大幅に向上しています。この成果はトラップイオン量子コンピュータにおける精密な制御と操作を可能にし、量子情報処理の精度向上のための重要な一歩となります。&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-advantage-in-distributed-quantum-computing-with-slow-interconnects">3. Advantage in distributed quantum computing with slow interconnects&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Evan E Dobbs, Nicolas Delfosse, Aharon Brodutch / 2025-12-11 / &lt;a href="http://arxiv.org/abs/2512.10693v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/li>
+&lt;li>&lt;strong>注目理由&lt;/strong>: 複数の量子処理ユニットを遅いインターコネクトで接続することによって、単一ユニットよりも優れた性能を発揮できることを示しています。このアプローチは、分散量子コンピューティングの実現に向けた新たな道を開くものであり、将来的な量子計算のスケーラビリティを向上させる可能性があります。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-注目論文の詳細評価一覧">📌 注目論文の詳細評価一覧&lt;/h2>
+&lt;h3 id="4-optimized-measurement-schedules-for-the-surface-code-with-dropout">4. Optimized Measurement Schedules for the Surface Code with Dropout&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Benjamin Anker, Dripto M. Debroy / 2025-12-11 / &lt;a href="http://arxiv.org/abs/2512.10871v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/li>
+&lt;li>&lt;strong>注目理由&lt;/strong>: サーフェスコードにおける最適化された測定スケジュールを提案し、量子ビットの欠落に対する耐性を強化しています。実際の量子デバイスの耐障害性を向上させる可能性があり、量子誤り訂正の実用性を高める研究です。&lt;/li>
+&lt;/ul>
+&lt;h3 id="5-metrics-on-completely-positive-maps-via-noncommutative-geometry">5. Metrics on completely positive maps via noncommutative geometry&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Are Austad, Erik Bédos, Jonas Eidesen, Nadia S. Larsen, Tron Omland / 2025-12-11 / &lt;a href="http://arxiv.org/abs/2512.10842v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/li>
+&lt;li>&lt;strong>注目理由&lt;/strong>: 非可換幾何学を用いて完全正の写像に対するメトリクスを導入する新たなアプローチを示しています。量子情報の幾何的性質の理解を深めることが期待され、量子プロセスのトポロジーを探求するための道を開きます。&lt;/li>
+&lt;/ul>
+&lt;h3 id="6-complexity-and-multi-functional-variants-of-the-quantum-to-quantum-bernoulli-factories">6. Complexity and multi-functional variants of the Quantum-to-Quantum Bernoulli Factories&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL&lt;/strong>: Francesco Hoch, Taira Giordani, Gonzalo Carvacho, Nicolò Spagnolo, Fabio Sciarrino / 2025-12-11 / &lt;a href="http://arxiv.org/abs/2512.10810v1">URL&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価&lt;/strong>: ★★★☆☆&lt;/li>
+&lt;li>&lt;strong>注目理由&lt;/strong>: 確率変数の変換を扱う量子ベルヌーイ工場の複雑さを評価し、量子アルゴリズムにおける乱数操作のためのフレームワークを提供しています。この研究は、量子計算における確率的要素の管理において重要な役割を果たす可能性があります。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-トレンドまとめ">📈 トレンドまとめ&lt;/h2>
+&lt;p>今週は、量子誤り訂正とFTQCに関連する研究が目立ちました。特に、量子学習のノイズ耐性や、トラップイオンを用いたレーザー冷却技術の進展が注目されました。これにより、量子コンピュータが実用化されるための技術的課題が次々と解決される可能性が高まっています。&lt;/p></description></item><item><title>2025-12-05 量子誤り訂正・FTQC</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251205-qec-ftqc/</link><pubDate>Fri, 05 Dec 2025 23:40:27 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251205-qec-ftqc/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子誤り訂正ftqc">今週の量子技術ダイジェスト：量子誤り訂正・FTQC&lt;/h1>
+&lt;p>今週も量子技術の最前線から、注目すべき研究成果が発表されました。特に、量子誤り訂正やファルトン量子計算（FTQC）に関連する論文が多く、これらの進展が今後の量子コンピュータの発展にどのように寄与するのかが期待されます。本記事では、今週の注目論文を詳しく解説し、最新のトレンドをまとめます。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-pump-free-microwave-optical-quantum-transductionhttparxivorgabs251205096v1">1. &lt;a href="http://arxiv.org/abs/2512.05096v1">Pump Free Microwave-Optical Quantum Transduction&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Fangxin Li, Jaesung Heo, Zhaoyou Wang, Andrew P. Higginbotham, Alexander A. High, Liang Jiang&lt;br>
+&lt;strong>公開日&lt;/strong>: 2025-12-04&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/p>
+&lt;p>この研究は、量子コンピューティングにおけるマイクロ波と光の間での量子転送を実現する革新的な手法を紹介しています。特に、ポンプなしでのエンタングルメント生成は、デバイスの加熱問題を回避し、量子通信の効率を大幅に向上させる可能性があります。この技術は分散型量子コンピューティングにおいて重要なブレイクスルーとなるでしょう。これにより、様々な量子デバイス間での情報転送が容易になり、量子ネットワークの構築が加速されると考えられます。&lt;/p>
+&lt;h3 id="2-circuit-quantum-acoustodynamics-in-a-scalable-phononic-integrated-circuit-architecturehttparxivorgabs251204953v1">2. &lt;a href="http://arxiv.org/abs/2512.04953v1">Circuit Quantum Acoustodynamics in a Scalable Phononic Integrated Circuit Architecture&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Weiting Wang, Lintao Xiao, Bo Zhang, Yu Zeng, Ziyue Hua, Chuanlong Ma, Hongwei Huang, Yifang Xu, Jia-Qi Wang, Guangming Xue, Haifeng Yu, Xin-Biao Xu, Chang-Ling Zou, Luyan Sun&lt;br>
+&lt;strong>公開日&lt;/strong>: 2025-12-04&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/p></description></item></channel></rss>

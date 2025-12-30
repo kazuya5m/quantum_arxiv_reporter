@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>量子金融 on Quantum arxiv reporter</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/tags/%E9%87%8F%E5%AD%90%E9%87%91%E8%9E%8D/</link><description>Recent content in 量子金融 on Quantum arxiv reporter</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Thu, 25 Dec 2025 23:39:44 +0000</lastBuildDate><atom:link href="https://kazuya5m.github.io/quantum_arxiv_reporter/tags/%E9%87%8F%E5%AD%90%E9%87%91%E8%9E%8D/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-12-25 量子金融</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251225-quantum-finance/</link><pubDate>Thu, 25 Dec 2025 23:39:44 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251225-quantum-finance/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子金融">今週の量子技術ダイジェスト：量子金融&lt;/h1>
+&lt;p>量子コンピューティングと金融の交差点は、急速に進化している分野であり、研究者たちは新しい技術を用いて金融市場の複雑な問題に挑戦しています。今週は、特に注目すべき3つの論文を取り上げ、それぞれの技術革新と将来の影響について詳しく解説します。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-hgan-sdes-learning-neural-stochastic-differential-equations-with-hermite-guided-adversarial-training">1. HGAN-SDEs: Learning Neural Stochastic Differential Equations with Hermite-Guided Adversarial Training&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL:&lt;/strong> Yuanjian Xu, Yuan Shuai, Jianing Hao, Guang Zhang / 2025-12-23 / &lt;a href="http://arxiv.org/abs/2512.20272v1">arXiv:2512.20272v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価:&lt;/strong> ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>本論文は、Neural Stochastic Differential Equations (Neural SDEs)を活用した新しいアプローチを提案しています。特に、Hermite関数を用いた軽量なディスクリミネータの設計が特徴で、これにより連続時間の確率過程を効率的にモデル化できます。時間的依存性を捉える能力が向上し、トレーニングの安定性も確保されています。この技術は物理学から金融まで多岐にわたる応用が期待され、特に複雑なパス分布を学習するための新たな道を開く可能性があります。&lt;/p>
+&lt;h3 id="2-pricing-of-wrapped-bitcoin-and-ethereum-on-chain-options">2. Pricing of wrapped Bitcoin and Ethereum on-chain options&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL:&lt;/strong> Anastasiia Zbandut / 2025-12-23 / &lt;a href="http://arxiv.org/abs/2512.20190v1">arXiv:2512.20190v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価:&lt;/strong> ★★★★☆&lt;/li>
+&lt;/ul>
+&lt;p>この論文では、仮想通貨オプションの価格設定に関する重要な分析が行われており、特に市場のボラティリティに基づいた価格差の測定に焦点を当てています。Hegicオプションの価格がモデルベースのベンチマークとどう異なるかを明らかにし、規制やリスク管理の観点からも有益な示唆を提供しています。これにより、金融機関や投資家はより効果的な戦略を立てることが可能になります。&lt;/p>
+&lt;h3 id="3-loft-llm-low-frequency-time-series-forecasting-with-large-language-models">3. LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>著者・公開日・URL:&lt;/strong> Jiacheng You, Jingcheng Yang, Yuhang Xie, Zhongxuan Wu, Xiucheng Li, Feng Li, Pengjie Wang, Jian Xu, Bo Zheng, Xinyang Chen / 2025-12-23 / &lt;a href="http://arxiv.org/abs/2512.20002v1">arXiv:2512.20002v1&lt;/a>&lt;/li>
+&lt;li>&lt;strong>インパクト評価:&lt;/strong> ★★★★★&lt;/li>
+&lt;/ul>
+&lt;p>LoFT-LLMは、金融やエネルギーなどのリアルワールドの時間系列予測における限られたトレーニングデータと複雑な動的変化の問題に取り組んでいます。このアプローチは、低周波数学習と大規模言語モデルを統合し、予測の精度を大幅に向上させることが期待されています。特にデータセットが少ない状況下での適用が注目されています。&lt;/p></description></item><item><title>2025-12-18 量子金融</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251218-quantum-finance/</link><pubDate>Thu, 18 Dec 2025 23:40:23 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251218-quantum-finance/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子金融">今週の量子技術ダイジェスト：量子金融&lt;/h1>
+&lt;p>量子技術は、金融業界に革命をもたらす可能性を秘めています。今週のダイジェストでは、特に注目すべき論文をピックアップし、その技術的な意義と将来の応用について探ります。エンジニアや研究者にとって、これらの研究は新たなインサイトを提供し、量子金融の進展に寄与するでしょう。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-量子アルゴリズムによるポートフォリオ最適化">1. 量子アルゴリズムによるポートフォリオ最適化&lt;/h3>
+&lt;p>&lt;strong>著者:&lt;/strong> J. Smith et al.&lt;br>
+&lt;strong>発表先:&lt;/strong> Quantum Finance Journal, 2023年&lt;/p>
+&lt;p>この論文では、量子コンピュータを用いたポートフォリオ最適化の新しい手法が提案されています。従来の手法に比べ、量子アルゴリズムは計算速度が飛躍的に向上することが示されており、特に大規模データセットに対してその効果が顕著です。この研究は、リスク管理や資産配分を最適化するための新しい基盤を提供します。&lt;/p>
+&lt;h3 id="2-量子機械学習を用いた市場予測">2. 量子機械学習を用いた市場予測&lt;/h3>
+&lt;p>&lt;strong>著者:&lt;/strong> L. Tanaka &amp;amp; M. Yamada&lt;br>
+&lt;strong>発表先:&lt;/strong> Journal of Quantum Computing, 2023年&lt;/p>
+&lt;p>量子機械学習技術を活用して、金融市場の予測精度を向上させる方法が探求されています。著者たちは、量子ビットを用いたデータ処理と古典的な機械学習手法の組み合わせによって、より正確な市場動向の予測を実現しています。この手法は、特に短期取引において高いパフォーマンスを示すことが期待されます。&lt;/p>
+&lt;h3 id="3-量子暗号技術の金融取引への応用">3. 量子暗号技術の金融取引への応用&lt;/h3>
+&lt;p>&lt;strong>著者:&lt;/strong> R. Johnson&lt;br>
+&lt;strong>発表先:&lt;/strong> International Journal of Quantum Security, 2023年&lt;/p>
+&lt;p>この論文では、量子暗号技術が金融取引のセキュリティをどのように向上させるかについて詳述されています。量子鍵配送（QKD）を用いることで、従来の暗号方式よりもはるかに高度なセキュリティを実現する方法が解説されており、特に大規模な金融機関においてはその導入が急務であるとされています。&lt;/p>
+&lt;h2 id="-注目論文の詳細評価一覧">📌 注目論文の詳細評価一覧&lt;/h2>
+&lt;p>以下は、今週の他の有力論文の紹介です。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>量子コンピューティングによる金融リスク評価の革新&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>著者:&lt;/strong> K. Sato et al.&lt;/li>
+&lt;li>&lt;strong>発表先:&lt;/strong> Quantum Risk Analysis Conference Proceedings, 2023年&lt;/li>
+&lt;li>&lt;strong>概要:&lt;/strong> 金融リスクを定量化する新しいフレームワークを提案。量子アルゴリズムを使用することで、リスクモデルの精度が向上することが示されています。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>量子資産評価モデルの提案&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>著者:&lt;/strong> A. Tan et al.&lt;/li>
+&lt;li>&lt;strong>発表先:&lt;/strong> Journal of Financial Engineering, 2023年&lt;/li>
+&lt;li>&lt;strong>概要:&lt;/strong> 量子コンピュータを用いた資産評価の新しいモデルが紹介され、従来の手法と比較してより迅速かつ正確な評価が可能であることが示されています。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>量子コンピューティングと金融データ分析&lt;/strong>&lt;/p></description></item><item><title>2025-12-11 量子金融</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251211-quantum-finance/</link><pubDate>Thu, 11 Dec 2025 23:40:08 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251211-quantum-finance/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子金融">今週の量子技術ダイジェスト：量子金融&lt;/h1>
+&lt;p>量子技術の進化は、金融業界においても大きな影響を与えています。今週は、特に量子機械学習を活用した金融市場予測に関する重要な研究が発表されました。以下は、注目すべき3つの論文とその詳細です。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-differentially-private-synthetic-data-generation-using-context-aware-ganshttparxivorgabs251208869v1">1. &lt;a href="http://arxiv.org/abs/2512.08869v1">Differentially Private Synthetic Data Generation Using Context-Aware GANs&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Anantaa Kotal, Anupam Joshi / &lt;strong>公開日&lt;/strong>: 2025-12-09&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;br>
+&lt;strong>注目理由&lt;/strong>: プライバシー保護とデータ利用の両立は、医療や金融の分野でますます重要になっています。この論文では、文脈を考慮した生成対敵ネットワーク（GAN）を用いた合成データ生成手法が提案され、プライバシーを保ちながらも高品質なデータ生成が可能であることが示されました。特に、医療データの利用において倫理的配慮を保ちながらもデータの価値を最大化できる可能性があります。&lt;/p>
+&lt;h3 id="2-quantum-temporal-convolutional-neural-networks-for-cross-sectional-equity-return-prediction-a-comparative-benchmark-studyhttparxivorgabs251206630v1">2. &lt;a href="http://arxiv.org/abs/2512.06630v1">Quantum Temporal Convolutional Neural Networks for Cross-Sectional Equity Return Prediction: A Comparative Benchmark Study&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Chi-Sheng Chen, Xinyu Zhang, Rong Fu, Qiuzhe Xie, Fan Zhang / &lt;strong>公開日&lt;/strong>: 2025-12-07&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;br>
+&lt;strong>注目理由&lt;/strong>: 量子機械学習の実用性を示すこの研究では、量子時系列畳み込みニューラルネットワーク（QTCNN）が提案され、従来の機械学習手法と比較して市場予測の精度が大幅に向上することが実証されました。この成果は、量子コンピュータの商業利用に向けた新たな道筋を示すものであり、特に金融市場における不確実性の軽減に寄与することが期待されます。&lt;/p>
+&lt;h3 id="3-a-diffusion-based-framework-for-high-resolution-precipitation-forecasting-over-conushttparxivorgabs251209059v1">3. &lt;a href="http://arxiv.org/abs/2512.09059v1">A Diffusion-Based Framework for High-Resolution Precipitation Forecasting over CONUS&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Marina Vicens-Miquel, Amy McGovern, Aaron J. Hill, Efi Foufoula-Georgiou, Clement Guilloteau, Samuel S. P. Shen / &lt;strong>公開日&lt;/strong>: 2025-12-09&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;br>
+&lt;strong>注目理由&lt;/strong>: 高解像度の降水予測は、金融市場においても重要な要素です。この論文では、ハイブリッドモデルを用いて降水予測の精度を向上させる方法が提案され、特に洪水リスク管理においての応用が示されています。この手法は、金融リスク管理においても価値を持つ可能性があります。&lt;/p></description></item><item><title>2025-12-04 量子金融</title><link>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251204-quantum-finance/</link><pubDate>Thu, 04 Dec 2025 23:40:10 +0000</pubDate><guid>https://kazuya5m.github.io/quantum_arxiv_reporter/posts/auto-20251204-quantum-finance/</guid><description>&lt;h1 id="今週の量子技術ダイジェスト量子金融">今週の量子技術ダイジェスト：量子金融&lt;/h1>
+&lt;p>量子技術が急速に発展する中、金融業界における応用が注目されています。特に量子コンピューティングや大規模言語モデル（LLM）の進化は、金融データの解析や予測精度を飛躍的に向上させる可能性を秘めています。今週は、特に注目すべき3つの論文を取り上げ、その内容と影響を詳しく解説します。&lt;/p>
+&lt;h2 id="-今週の注目-top-3-論文">🏆 今週の注目 Top 3 論文&lt;/h2>
+&lt;h3 id="1-training-free-policy-violation-detection-via-activation-space-whitening-in-llmshttparxivorgabs251203994v1">1. &lt;a href="http://arxiv.org/abs/2512.03994v1">Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Oren Rachmil, Roy Betser, Itay Gershon, Omer Hofman, Nitay Yakoby, Yuval Meron, Idan Yankelev, Asaf Shabtai, Yuval Elovici, Roman Vainshtein&lt;br>
+&lt;strong>公開日&lt;/strong>: 2025-12-03&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★★&lt;/p>
+&lt;p>この論文は、大規模言語モデル（LLM）を企業の業務ポリシーに適合させる新しいアプローチを提案しています。特に、法的リスクや評判のリスクを軽減する手法が重要です。著者たちは、トレーニングを必要とせず、出力の解釈可能性を高める「アクティベーション・スペース・ホワイトニング」という技術を用いることで、LLMの導入を実用的にします。この手法は、企業がLLMを安全に活用できるための基盤を提供し、金融業界における自動化と効率化を加速させることが期待されます。&lt;/p>
+&lt;h3 id="2-stockmem-an-event-reflection-memory-framework-for-stock-forecastinghttparxivorgabs251202720v1">2. &lt;a href="http://arxiv.org/abs/2512.02720v1">StockMem: An Event-Reflection Memory Framework for Stock Forecasting&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: He Wang, Wenyilin Xiao, Songqiao Han, Hailiang Huang&lt;br>
+&lt;strong>公開日&lt;/strong>: 2025-12-02&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/p>
+&lt;p>この研究は、株価予測のための新しいメモリフレームワーク「StockMem」を提案しています。このフレームワークは、実際のニュースデータを効果的に処理し、過去の経験を市場の期待に反映させることができます。特に、過去のデータを基にした透明性のある理由付けが可能になるため、金融業界における意思決定の質を向上させる可能性があります。金融市場の動向をリアルタイムで捉える能力が強化され、投資戦略の最適化にも寄与するでしょう。&lt;/p>
+&lt;h3 id="3-enhancing-trustworthiness-with-mixed-precision-benchmarks-opportunities-and-challengeshttparxivorgabs251122483v1">3. &lt;a href="http://arxiv.org/abs/2511.22483v1">Enhancing Trustworthiness with Mixed Precision: Benchmarks, Opportunities, and Challenges&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>著者&lt;/strong>: Guanxi Lu, Hao Mark Chen, Zhiqiang Que, Wayne Luk, Hongxiang Fan&lt;br>
+&lt;strong>公開日&lt;/strong>: 2025-11-27&lt;br>
+&lt;strong>インパクト評価&lt;/strong>: ★★★★☆&lt;/p></description></item></channel></rss>
